@@ -2,6 +2,7 @@
 # 2402870
 # RPL 1A
 
+print("Selamat datang")
 print("Masukkan waktu yang dibutuhkan mobil balap untuk menyelesaikan 1 putaran.")
 menit = int(input("Menit: "))
 detik = int(input("Detik: "))
