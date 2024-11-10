@@ -2,7 +2,8 @@
 # 2402870
 # RPL 1A
 
-print("Selamat datang para calon model. Silahkan masukkan data diri Anda.")
+print("Selamat datang para calon model 2024.")
+print("Silahkan masukkan data diri Anda.")
 
 nama = str(input("Masukkan nama lengkap Anda: "))
 jenis_kelamin = str(input("Masukkan jenis kelamin Anda (Wanita/Pria): "))
