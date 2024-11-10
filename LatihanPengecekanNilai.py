@@ -2,6 +2,7 @@
 # 2402870
 # RPL 1A
 
+print("Cek predikat nilai matkul daspro")
 nilai = int(input("Masukkan nilai: "))
 if (nilai >= 90):
     print(f"Nilai Anda adalah {nilai}, Anda mendapat predikat A")
